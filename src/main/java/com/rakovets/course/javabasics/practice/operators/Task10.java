@@ -25,5 +25,5 @@ public class Task10 {
         int result = height - 110;
         int sum = weight -result;
         System.out.println(sum);
-    }
+        }
 }

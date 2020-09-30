@@ -23,5 +23,5 @@ public class Task09 {
         // Для проверки решения необходимо запустить @Test для данного class (в директории test)
         Float result = time * SOUND_SPEED;
         System.out.println(result);
-    }
+        }
 }

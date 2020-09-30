@@ -24,5 +24,5 @@ public class Task12 {
         int m = playingTimeInSeconds % 86400 % 3600/60;
         int s = playingTimeInSeconds % 86400 % 3600 % 60;
         System.out.println(D+ " "+H+":"+m+":"+s);
-    }
+        }
 }

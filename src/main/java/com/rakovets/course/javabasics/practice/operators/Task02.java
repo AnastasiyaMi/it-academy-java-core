@@ -24,5 +24,5 @@ public class Task02 {
         // Для проверки решения необходимо запустить @Test для данного class (в директории test)
         int result = cargo % carryingCapacity ;
         System.out.println(result);
-    }
+        }
 }

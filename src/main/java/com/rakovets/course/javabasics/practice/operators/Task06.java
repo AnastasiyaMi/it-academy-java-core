@@ -25,5 +25,5 @@ public class Task06 {
         double result = deposit * annualPercentage/100*5;
         double sum = result + deposit;
         System.out.println(sum);
-    }
+        }
 }
